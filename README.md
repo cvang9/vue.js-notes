@@ -4,7 +4,7 @@
 
 Clone repo: 
 ```sh
-git clone 
+git clone https://github.com/cvang9/vue.js-notes.git
 ```
 
 ### 
